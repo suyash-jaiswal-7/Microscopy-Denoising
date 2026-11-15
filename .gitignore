@@ -1,0 +1,18 @@
+# Dataset - do not upload
+data/
+
+# Model checkpoints
+outputs/checkpoints/
+
+# Generated predictions
+outputs/predictions/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
