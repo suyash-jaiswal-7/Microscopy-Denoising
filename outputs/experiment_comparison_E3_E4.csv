@@ -1,0 +1,3 @@
+Experiment,PSNR,SSIM
+E3 - Standard U-Net,33.5645,0.9488
+E4 - U-Net + Edge Loss,33.1809,0.9449
